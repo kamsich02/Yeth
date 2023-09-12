@@ -1,0 +1,16 @@
+{
+  "name": "yeth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bn.js": "^5.2.1",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.1"
+  }
+}
